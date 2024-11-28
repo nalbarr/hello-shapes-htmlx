@@ -1,2 +1,2 @@
-# hello-shapes-htmlx
+# hello-shapes-htmx
 hello-shapes-htmx
